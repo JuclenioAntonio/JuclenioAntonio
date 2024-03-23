@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Python, Power BI, Microsoft Fabric**
 
-- 📫 How to reach me **juclenio.d.z.antonio@gmail.com**
+- 📫 How to reach me [Twitter](https://twitter.com/juclenio_)
 
 - 📄 Know about my experiences [https://tinyurl.com/juclenio](https://tinyurl.com/juclenio)
 
