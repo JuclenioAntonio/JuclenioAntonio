@@ -1,4 +1,4 @@
-<h1 align="center">Que bom te ver por aqui!! 👋, Eu sou o Juclénio António</h1>
+<h1 align="center">Que bom te ver por aqui!! 👋</h1>
 <h3 align="center">Apaixonado por agregar valor com a análise de dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juclenioantonio&label=Profile%20views&color=0e75b6&style=flat" alt="juclenioantonio" /> </p>
