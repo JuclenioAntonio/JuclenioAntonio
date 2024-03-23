@@ -2,9 +2,9 @@
 
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/juclenio](https://tinyurl.com/juclenio)
 
-- 💬 Ask me about **Python, Power BI, Microsoft Fabric**
+- 💬 Ask me about **Python and Data Analysis in general**
 
-- 📫 How to reach me [Twitter](https://twitter.com/juclenio_)
+- 📫 How to reach me @ [Twitter](https://twitter.com/juclenio_)
 
 - 📄 Know about my experiences [https://tinyurl.com/juclenio](https://tinyurl.com/juclenio)
 
