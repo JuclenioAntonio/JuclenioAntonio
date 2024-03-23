@@ -1,11 +1,5 @@
 <h1 align="left">Que bom te ver por aqui!! 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juclenioantonio&label=Profile%20views&color=0e75b6&style=flat" alt="juclenioantonio" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juclenioantonio" alt="juclenioantonio" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/juclenio_" target="blank"><img src="https://img.shields.io/twitter/follow/juclenio_?logo=twitter&style=for-the-badge" alt="juclenio_" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/juclenio](https://tinyurl.com/juclenio)
 
 - 💬 Ask me about **Python, Power BI, Microsoft Fabric**
@@ -13,6 +7,14 @@
 - 📫 How to reach me **juclenio.d.z.antonio@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/juclenio](https://tinyurl.com/juclenio)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juclenioantonio&label=Profile%20views&color=0e75b6&style=flat" alt="juclenioantonio" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juclenioantonio" alt="juclenioantonio" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/juclenio_" target="blank"><img src="https://img.shields.io/twitter/follow/juclenio_?logo=twitter&style=for-the-badge" alt="juclenio_" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
