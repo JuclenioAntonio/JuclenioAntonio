@@ -1,4 +1,4 @@
-<h1 align="left">Que bom te ver por aqui!! 👋</h1>[s](url)
+<h1 align="left">Que bom te ver por aqui!! 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juclenioantonio&label=Profile%20views&color=0e75b6&style=flat" alt="juclenioantonio" /> </p>
 
